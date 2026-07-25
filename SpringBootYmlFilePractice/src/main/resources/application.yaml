@@ -1,0 +1,32 @@
+#Employees Info
+
+emp:
+  details:
+    eno: 1001
+    eName: Sanket
+    eAddress: Bangalore
+    favColor:
+      - red
+      - yellow
+      - green
+    nickName:
+      - Bunny
+      - Chunny
+      - Sankey
+    phoneNumber:
+      - 8434812640
+      - 1234567980
+      - 2356478916
+    IdDetails:
+      aadhar: 456123
+      voterId: 465646
+      PanNo: 4698
+    project:
+      Id: 10020
+      name: Arizona Public Service
+      addrs: Bangalore
+      size: 13
+
+
+
+
